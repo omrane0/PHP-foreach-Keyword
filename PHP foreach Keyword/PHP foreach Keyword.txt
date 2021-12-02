@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$cars = ["Ford", "Volvo", "BMW"];
+foreach($cars as $car) {
+  echo "$car <br>";
+}
+?>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+Ford
+Volvo
+BMW
